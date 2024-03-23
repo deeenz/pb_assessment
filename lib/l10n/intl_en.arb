@@ -1,0 +1,14 @@
+{
+    "kindlyTryAgain": "Kindly try again,poor internet connection",
+    "requestCancelled": "Request cancelled",
+    "noInternetConnection": "No internet connection",
+    "anErrorOccurred": "An error occurred",
+    "largestPokemonIndexWithInfo":"Largest Pokémon index with information about every Pokemon you can think of. ",
+    "poke":"Poké ",
+    "book":"book",
+    "enterPokemonName":"Enter pokemon name",
+    "viewAll": "View all",
+    "loading":"Loading",
+    "reload":"Reload"
+    
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821136997077",
+    "project_id": "pokebook-assessment",
+    "storage_bucket": "pokebook-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821136997077:android:5ff24a0474b79d4bb2805c",
+        "android_client_info": {
+          "package_name": "com.example.pokebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KTphkE11eu2LW74y1gUEsokIQ_GQbRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
